@@ -87,3 +87,5 @@ function drawVerticalLine(x: number, y: number, length: number) {
     drawDot(x, i + y)
   }
 }
+
+//test
