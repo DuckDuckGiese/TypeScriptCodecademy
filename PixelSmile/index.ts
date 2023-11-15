@@ -88,4 +88,3 @@ function drawVerticalLine(x: number, y: number, length: number) {
   }
 }
 
-//test
